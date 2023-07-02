@@ -1,0 +1,37 @@
+  body{
+    background-color: #E3F4F4;
+  }
+  hr{
+    background-color: #E3F4F4;
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: 5px;
+    height: 0px;
+    width: 5%;
+
+  }
+  hr:hover{
+    border-color: gold;
+  }
+  img{
+    height: 200px;
+  }
+  h1{
+    color: #3AA6B9;
+  }
+  h1:hover{
+    color: maroon;
+  }
+  h3{
+    color: #176B87;
+  }
+  h3:hover{
+    color: brown;
+  }
+  .Table:hover{
+    color: #6527BE;
+  }
+  .Form:hover{
+    color: #176B87;
+  }
+/* 176B87 */
