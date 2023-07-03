@@ -15,10 +15,10 @@
   }
   img{
     height: 200px;
-    color: #9681EB;
+    background-color: #9681EB;
   }
 img:hover{
-  color: #B71375;
+  background-color: #B71375;
 }
   .circular_image{
     border-radius: 50%;
